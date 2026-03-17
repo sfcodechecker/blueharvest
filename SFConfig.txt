@@ -1,7 +1,7 @@
 {
-"siteURL":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com/services/apexrest/",
-"orgid":"00D2x000004TVSQ",
-"campaignid":"7012x000000ZFC6AAO",
+"siteURL":"https://arcpvtltdconsulting.my.salesforce-sites.com/WPayments/services/apexrest/",
+"orgid":"00DQE00000CX0lV",
+"campaignid":"701QE00000sEXYbYAO",
 "gateway":"stripe",
 "p2pIframeURL":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com/wired4NPSP__donate",
 "save_children_from_hunger":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com//apex/wired4NPSP__donate?id=a1O2x0000029wC8EAI",
