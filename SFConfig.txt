@@ -1,7 +1,7 @@
 {
 "siteURL":"https://arcpvtltdconsulting.my.salesforce-sites.com/WPayments/services/apexrest/",
 "orgid":"00DQE00000CX0lV",
-"campaignid":"701QE00000sEXYbYAO",
+"campaignid":"701QE00000sEXYfYAO",
 "gateway":"stripe",
 "p2pIframeURL":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com/wired4NPSP__donate",
 "save_children_from_hunger":"https://atlascons-wired-release-dev-ed.my.salesforce-sites.com//apex/wired4NPSP__donate?id=a1O2x0000029wC8EAI",
