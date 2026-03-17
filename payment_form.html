@@ -31,7 +31,7 @@
                 dataType: "text",
                 success: function (data) {
                     var SFConfig = JSON.parse(data);
-                    document.getElementById("myForm").action = SFConfig.siteURL + 'Q_Charge/charge';
+                    document.getElementById("myForm").action = SFConfig.siteURL + 'w_pay/charge';
                     document.getElementById("oid").value = SFConfig.orgid;
                     var homemURL = window.location.href;
                     homemURL = homemURL.substring(0, homemURL.indexOf('payment_form.html'));
@@ -93,6 +93,8 @@
                 <input type="hidden" id="redirecturl" name="redirecturl" class="form-control">
                 <input type="hidden" id="gatewayname" name="gatewayname" class="form-control">
                 <input type="hidden" id="organisationname" name="organisationname" class="form-control">
+                <input type="hidden" id="environment" name="environment" value="NPC">
+                <input type="hidden" name="outreachsourcecode" id="outreachsourcecode" value="SRC014" />
 
                 <div class="row">
                     <div class="col-md-12">
